@@ -1,9 +1,18 @@
 .cabeçalho {
-     background-color: blue;
+     background-color: rgb(3, 3, 46);
      color:white; 
      display: flex;
      justify-content: space-around;
      align-items: center;
 }
 
+.cabeçalho-lista { color: rgba(13, 102, 138, 0.979);
+}
 
+.titulo-1 { color:rgb(3, 3, 46);
+}
+
+.texto-1 { color: black;
+
+
+}
