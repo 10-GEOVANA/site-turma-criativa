@@ -1,18 +1,40 @@
 .cabeçalho {
-     background-color: rgb(3, 3, 46);
+     background-color: rgb(18, 18, 192);
      color:white; 
      display: flex;
      justify-content: space-around;
      align-items: center;
 }
 
-.cabeçalho-lista { color: rgba(13, 102, 138, 0.979);
+.cabeçalho-lista { 
+     color: rgba(0, 0, 0, 0.979);
+}
+ 
+.cabeçalho-lista-item {
+     color: white;
 }
 
-.titulo-1 { color:rgb(3, 3, 46);
+.titulo-1 { 
+     color:rgb(3, 3, 46);
+     padding: 40px;     
+     text-align: center;
 }
 
 .texto-1 { color: black;
-
-
 }
+
+.titulo-0 { 
+
+
+
+
+} 
+
+
+
+
+
+
+
+
+
