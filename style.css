@@ -23,14 +23,15 @@
 .texto-1 { color: black;
 }
 
-.titulo-0 { 
+.texto-cor { 
+     background-color: rgb(203, 193, 233);
+     padding: 20px;
+}
 
-
-
-
-} 
-
-
+.meio-texto-1 { 
+     padding: 40px;
+     text-align: center;
+}
 
 
 
